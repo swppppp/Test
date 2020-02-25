@@ -1,4 +1,4 @@
-{
+{"PdfData" : [{
   "mergeYn" : "N",
   "mainTitle" : "메인타이틀",
   "mainBtnTitle" : "",
@@ -23,5 +23,5 @@
       "btnTitle" : "동의하지 않음|동의"
     }
   ]
-}
+}]}
 
