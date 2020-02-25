@@ -1,27 +1,29 @@
-{"PdfData" : [{
-  "mergeYn" : "N",
-  "mainTitle" : "메인타이틀",
-  "mainBtnTitle" : "",
-  "pdfs" : [
-    {
-      "readYn" : "N",
-      "termType" : "P",
-      "termTitle" : "pdf제목1",
-      "url" : "http://www.africau.edu/images/default/sample.pdf",
-      "btnTitle" : ""
-    }, {
-      "readYn" : "N",
-      "termType" : "P",
-      "termTitle" : "pdf제목2 전체동의",
-      "url" : "https://gahp.net/wp-content/uploads/2017/09/sample.pdf",
-      "btnTitle" : "전체동의"
-    }, {
-      "readYn" : "N",
-      "termType" : "P",
-      "termTitle" : "pdf제목3 선택동의",
-      "url" : "https://gahp.net/wp-content/uploads/2017/09/sample.pdf",
-      "btnTitle" : "동의하지 않음|동의"
-    }
-  ]
+{
+  "PdfData" : 
+  {
+    "mergeYn" : "N",
+    "mainTitle" : "메인타이틀",
+    "mainBtnTitle" : "",
+    "pdfs" : [
+      {
+        "readYn" : "N",
+        "termType" : "P",
+        "termTitle" : "pdf제목1",
+        "url" : "http://www.africau.edu/images/default/sample.pdf",
+        "btnTitle" : ""
+      }, {
+        "readYn" : "N",
+        "termType" : "P",
+        "termTitle" : "pdf제목2 전체동의",
+        "url" : "https://gahp.net/wp-content/uploads/2017/09/sample.pdf",
+        "btnTitle" : "전체동의"
+      }, {
+        "readYn" : "N",
+        "termType" : "P",
+        "termTitle" : "pdf제목3 선택동의",
+        "url" : "https://gahp.net/wp-content/uploads/2017/09/sample.pdf",
+        "btnTitle" : "동의하지 않음|동의"
+      }
+  
 }]}
 
